@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'meydanesorkh9'
-copyright = '2021, meydanesorkh9'
-author = 'meydanesorkh 9'
+project = 'meydanesorkh 11'
+copyright = '2021, meydanesorkh11'
+author = 'meydanesorkh 11'
 
 
 
